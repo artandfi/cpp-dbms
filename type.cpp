@@ -1,6 +1,6 @@
-#include <string>;
-#include <vector>;
-#include <mutex>;
+#include <string>
+#include <vector>
+#include <mutex>
 
 using namespace std;
 

@@ -1,6 +1,11 @@
-#include "type.cpp"
-
+#include <string>
+#include <iostream>
+#include "relation.cpp"
 
 int main(int argc, char* argv[]) {
-    return 0;
+	Field g;
+	g.data = "test";
+	cout << g.data;
+
+	return 0;
 }
